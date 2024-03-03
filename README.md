@@ -4,5 +4,5 @@ Developed with Python. Applicable for desktop versions. This program captures im
 
 
 
-![alt text](https://hizliresim.com/rgzgvt0)
+![alt text](https://i.hizliresim.com/rgzgvt0.PNG)
 
