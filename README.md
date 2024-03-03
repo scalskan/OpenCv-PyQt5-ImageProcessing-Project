@@ -3,5 +3,5 @@ Developed with Python. Applicable for desktop versions. This program captures im
 
 
 
-![](https://hizliresim.com/ss.png)
+![](ss.png)
 
