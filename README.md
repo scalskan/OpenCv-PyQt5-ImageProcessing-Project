@@ -3,5 +3,6 @@ Developed with Python. Applicable for desktop versions. This program captures im
 
 
 
-![](ss.png)
+
+![alt text](https://hizliresim.com/rgzgvt0)
 
