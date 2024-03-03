@@ -1,3 +1,3 @@
-# OpenCv ve PyQt5 ile Goruntu Alma Projesi
- Python ile geliştirilmiştir. Masaüstü sürümler için geçerlidir. Dosya dizinindeki videodan 3 button yardımıyla istediğimiz zaman görüntü aalıp onu kaydeden ve ekranda gösteren program.
+#Image Capture Project with OpenCV and PyQt5
+Developed with Python. Applicable for desktop versions. This program captures images from a video file in the directory using 3 buttons, saves them, and displays them on the screen as desired.
  
